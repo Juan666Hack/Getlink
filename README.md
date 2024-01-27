@@ -1,4 +1,5 @@
-El propósito de un "web scraper" o herramienta de extracción de enlaces es recopilar todos los enlaces de una página web o de un sitio web completo. Los beneficios de esta herramienta incluyen la capacidad de recopilar datos para análisis, monitoreo de competidores, recopilación de información para investigación y mucho más. Por ejemplo, si eres un profesional de marketing, podrías utilizar un web scraper para recopilar enlaces de tus competidores y analizar su estrategia de construcción de enlaces. También puede ser útil para recopilar información de contacto de sitios web o para hacer un inventario de los enlaces en tu propio sitio.
+Get-Link  una herramienta que extrae urls de una página web muy sencilla su uso envia la url de la web y te ofrecera todas las urls que use esa web
+by: 𝕵𝖚𝖆𝖓⁶⁶⁶𝕳𝖆𝖈𝖐⁅B᤻ᳱᮩᮢᮣZ⁆ᮢ⅌᪼ᩬ ⃘⃕͜⃤࡛࡛࡛࡛࡛࡛
 
 Instalación:
 
