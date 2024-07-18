@@ -16,3 +16,5 @@ https://github.com/Juan666Hack/Getlink`
 • `pip install -r requirements.txt`
 
 • `python3 get-link.py`
+
+CODIGO ACRUALIZADO ESTARA SIENDO ACTUALIZADO
